@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/FEMSA/v16
+/.vs
+/Crud-Api-Mvc/.vs/Crud-Api-Mvc/v16
+/Crud-Api-Mvc/bin/Debug/netcoreapp3.1
+/Crud-Api-Mvc/obj
+/Crud-Mvc/bin/Debug/netcoreapp3.1
+/Crud-Mvc/obj
